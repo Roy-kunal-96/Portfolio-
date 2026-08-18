@@ -22,8 +22,5 @@ Run locally
 Contributing
 - PRs welcome. Open an issue for major changes.
 
-License
-- Specify a license (e.g., MIT) or replace this line with the license text.
-
 Contact
 - https://github.com/Roy-kunal-96
